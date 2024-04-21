@@ -1,2 +1,2 @@
-# wp-cryptopanic-integration
-Wordpress plugin for Cryptopanic integration
+# cryptopanic-integration-wp
+ Cryptopanic integration - WordPress plugin
